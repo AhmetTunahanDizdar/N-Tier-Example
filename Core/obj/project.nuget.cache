@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjFk3pQolgE3ggH9yzNFa/qlWdKCulLGaOL+ZZ9On2Ee1pVjoIr6VpT70ny9UTs56MVG8IDJhGusfnAgDCwUYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\.Net Core\\NLayerProject\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
